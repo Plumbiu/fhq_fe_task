@@ -14,7 +14,7 @@ Github 用户名: Plumbiu
 
 仓库地址: https://github.com/Plumbiu/weather-card
 
-访问地址(github可以设置静态网页，有能力部署到服务器上的也可以用服务器): www.plumbiu.club:8001
+访问地址(github可以设置静态网页，有能力可以部署到服务器): www.plumbiu.club:8001
 
 # 进阶内容
 
